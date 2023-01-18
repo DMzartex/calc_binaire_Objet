@@ -1,0 +1,38 @@
+﻿<Window x:Class="Calc_Binaire_Objet.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Calc_Binaire_Objet"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="635" Background="#386842" FontSize="25" Foreground="White" FontWeight="Bold">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Vertical">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock VerticalAlignment="Center" Margin="10,0,0,0">Nombre 1</TextBlock>
+                <TextBox x:Name="nbr1" Height="50px" Width="220px" Margin="40,0,0,0" MaxLength="7"></TextBox>
+                <RadioButton x:Name="addition" Margin="20,0,0,0" VerticalAlignment="Center">
+                    <TextBlock Foreground="White" FontWeight="Bold">ADDITION</TextBlock>
+                </RadioButton>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,3,0,0">
+                <TextBlock VerticalAlignment="Center" Margin="10,0,0,0">Nombre 2</TextBlock>
+                <TextBox x:Name="nbr2" Height="50px" Width="220px" Margin="40,0,0,0" MaxLength="7"></TextBox>
+                <RadioButton x:Name="soustraction" Margin="20,0,0,0" VerticalAlignment="Center">
+                    <TextBlock Foreground="White" FontWeight="Bold">SOUSTRACTION</TextBlock>
+                </RadioButton>
+            </StackPanel>
+        </StackPanel>
+
+        <StackPanel Orientation="Vertical" Grid.Row="1">
+            <Button x:Name="calculer" Height="50px">CALCULER</Button>
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,15,0,0">Résultat</TextBlock>
+        </StackPanel>
+    </Grid>
+
+</Window>
