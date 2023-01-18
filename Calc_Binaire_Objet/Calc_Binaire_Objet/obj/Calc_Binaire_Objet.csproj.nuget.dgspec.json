@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Doria\\Desktop\\Cours\\Programmation\\Programmation_6TI\\POO\\Calc_Binaire_Objet\\Calc_Binaire_Objet\\Calc_Binaire_Objet.csproj": {}
+    "C:\\Users\\Doria\\Desktop\\Cours\\Programmation\\Programmation_6TI\\POO\\calc_binaire_Objet\\Calc_Binaire_Objet\\Calc_Binaire_Objet\\Calc_Binaire_Objet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Doria\\Desktop\\Cours\\Programmation\\Programmation_6TI\\POO\\Calc_Binaire_Objet\\Calc_Binaire_Objet\\Calc_Binaire_Objet.csproj": {
+    "C:\\Users\\Doria\\Desktop\\Cours\\Programmation\\Programmation_6TI\\POO\\calc_binaire_Objet\\Calc_Binaire_Objet\\Calc_Binaire_Objet\\Calc_Binaire_Objet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Doria\\Desktop\\Cours\\Programmation\\Programmation_6TI\\POO\\Calc_Binaire_Objet\\Calc_Binaire_Objet\\Calc_Binaire_Objet.csproj",
+        "projectUniqueName": "C:\\Users\\Doria\\Desktop\\Cours\\Programmation\\Programmation_6TI\\POO\\calc_binaire_Objet\\Calc_Binaire_Objet\\Calc_Binaire_Objet\\Calc_Binaire_Objet.csproj",
         "projectName": "Calc_Binaire_Objet",
-        "projectPath": "C:\\Users\\Doria\\Desktop\\Cours\\Programmation\\Programmation_6TI\\POO\\Calc_Binaire_Objet\\Calc_Binaire_Objet\\Calc_Binaire_Objet.csproj",
+        "projectPath": "C:\\Users\\Doria\\Desktop\\Cours\\Programmation\\Programmation_6TI\\POO\\calc_binaire_Objet\\Calc_Binaire_Objet\\Calc_Binaire_Objet\\Calc_Binaire_Objet.csproj",
         "packagesPath": "C:\\Users\\Doria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Doria\\Desktop\\Cours\\Programmation\\Programmation_6TI\\POO\\Calc_Binaire_Objet\\Calc_Binaire_Objet\\obj\\",
+        "outputPath": "C:\\Users\\Doria\\Desktop\\Cours\\Programmation\\Programmation_6TI\\POO\\calc_binaire_Objet\\Calc_Binaire_Objet\\Calc_Binaire_Objet\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

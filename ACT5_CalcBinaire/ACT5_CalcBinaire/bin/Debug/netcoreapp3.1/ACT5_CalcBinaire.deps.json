@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ACT5_CalcBinaire/1.0.0": {
+        "runtime": {
+          "ACT5_CalcBinaire.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ACT5_CalcBinaire/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
